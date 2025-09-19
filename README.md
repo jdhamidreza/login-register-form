@@ -1,4 +1,7 @@
-<img width="3467" height="1817" alt="image" src="https://github.com/user-attachments/assets/f26eb7fc-1a7c-4fa5-8a4c-ef2416512fa2" />
+
+<img width="2345" height="1590" alt="image" src="https://github.com/user-attachments/assets/cf2dee4d-4084-41db-8b6f-6e5349cb699f" />
+<img width="2470" height="1670" alt="image" src="https://github.com/user-attachments/assets/62467b60-068d-43c4-8e7d-5dd5878b810f" />
+
 
 
 # Login/Register Form
